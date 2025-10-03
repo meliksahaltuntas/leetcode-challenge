@@ -28,11 +28,6 @@ function mySqrt1(x: number): number {
 
 
 
-
-
-
-
-
 // Linear Search
 // Time Complexity: O(n)
 function mySqrt2(x: number): number {
